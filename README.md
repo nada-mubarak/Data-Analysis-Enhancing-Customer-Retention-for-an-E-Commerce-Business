@@ -5,6 +5,8 @@ Tools Used:
 1. Python (for analysis)
 2. Pandas, Matplotlib, Seaborn (for visualization)
 3. Jupyter Notebook (to document analysis)
+4. Tablue (for dashboards)
+5. Microsoft PowerPoint (for presentation)
 
 Key Analyses Performed:
 1. Customer Segmentation: Cluster customers based on purchase behavior and demographics using K-Means.
